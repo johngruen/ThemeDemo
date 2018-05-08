@@ -12,7 +12,7 @@ const theme = {
     popup_text: 'blue',
     popup_highlight: 'pink', // this and the one below don't seem to work. supposed to set selected awesomebar item
     popup_highlight_text: 'green',
-    tab_line: 'navy',
+    tab_line: 'navy', //USED
     tab_loading: 'salmon',
     tab_selected: 'green', // i can't make this one work, or it's being overidden somewhere?
     tab_text: 'red',
